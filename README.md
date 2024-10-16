@@ -51,8 +51,7 @@ The diverse nature of university campuses, where several regional languages are 
   - NumPy 1.26.4, Pandas 2.2.2
   - Google Colab for training and deployment.
 
-# Implementation
-Visit here : (https://drive.google.com/drive/folders/195qAJWSfnruzYf-s3DKlOe0kueEdgEc0?usp=drive_link)
+
 
 ### Future Work
 - Implementing deep learning models like **LSTM** and **CNN**.
